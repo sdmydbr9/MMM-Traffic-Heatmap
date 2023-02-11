@@ -1,0 +1,15 @@
+{
+  "name": "MMM-Traffic-Heatmap",
+  "version": "0.0.1",
+  "description": "MagicMirror module for displaying traffic heatmap data.",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sdmy",
+  "license": "MIT"
+}
