@@ -1,5 +1,5 @@
 const NodeHelper = require("node_helper");
-const fetch = await import('node-fetch');
+const fetch = require('node-fetch');
 
 module.exports = NodeHelper.create({
   start: function() {
