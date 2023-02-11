@@ -4,7 +4,7 @@
   "description": "MagicMirror module for displaying traffic heatmap data.",
   "main": "index.js",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.3.0"
   },
   "scripts": {
     "start": "node index.js",
